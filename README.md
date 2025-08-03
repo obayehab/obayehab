@@ -1,53 +1,54 @@
 <h1 align="center">Hi, I'm <span style="color:#00C2CB;">Obay Ehab</span> 👋</h1>
 
 <p align="center">
-🎓 <b>Computer Science Student</b> at Egyptian Chinese University (Class of 2028)  
-<br>🎨 <b>Graphic Designer</b> | 🛠️ <b>Freelancer (3+ Years)</b>  
-<br>🇪🇬 Egypt | 🗣️ Arabic (Native), English ( Upper Intermediate - B1)
+  <img src="https://komarev.com/ghpvc/?username=obayehab&label=Profile%20Views&color=00C2CB&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
-<h2>🧠 About Me</h2>
+### 🎨 About Me
 
-<ul>
-  <li>🔥 Passionate about <b>creative design</b> and visual storytelling</li>
-  <li>🎤 TEDxECU <b>Graphic Design Team Member</b> for 1 year</li>
-  <li>🖌️ Skilled in <b>Photoshop</b>, <b>Illustrator</b>, and <b>Blender</b></li>
-  <li>💻 Starting my journey in <b>programming</b> with <b>C++</b></li>
-</ul>
+- ✏️ **Creative Graphic Designer** with 3+ years of freelance experience  
+- 🎓 **Computer Science student** at Egyptian Chinese University (2028)  
+- 🧠 Passionate about turning **ideas into visuals** and learning to code  
+- 🎤 Former TEDxECU Graphic Designer  
+- 💻 Currently exploring **C++ programming** and digital design fusion  
 
 ---
 
-<h2>🔧 Tools & Technologies</h2>
+### 🛠️ Tools & Technologies
 
-<p>
-🎨 Photoshop, Illustrator, Lightroom  
-<br>🧱 Blender (3D Modeling)  
-<br>💻 C++ (Learning)  
-<br>🛠️ Notion  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,blender,figma,cpp,github,notion" alt="Skills" />
 </p>
 
 ---
 
-<h2>🌱 Currently Working On</h2>
+### 🚧 Currently Building
 
-<ul>
-  <li>📚 Improving my programming skills</li>
-  <li>🧪 Combining design + code in creative projects</li>
-
-</ul>
+- 💡 A personal workflow that mixes design & development  
+- 📚 Improving logic & programming with C++  
+- 🤝 Exploring open-source & creative communities
 
 ---
 
-<h2>📫 Contact Me</h2>
+### 📫 How to Reach Me
 
-<p>
-📧 <b>Email:</b> <a href="mailto:obayehabb@gmail.com">obayehabb@gmail.com</a>
+<p align="center">
+  <a href="mailto:obayehabb@gmail.com"><img src="https://img.shields.io/badge/Email-obayehabb@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obayehab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="50%" />
 </p>
 
 ---
 
 <blockquote align="center">
-  <i>“Design is intelligence made visible.”</i> – <b>Alina Wheeler</b>
+  <i>“Design is intelligence made visible.”</i><br>
+  — <b>Alina Wheeler</b>
 </blockquote>
