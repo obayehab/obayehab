@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm <span style="color:#00C2CB;">Obay Ehab</span> 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=obayehab&label=Profile%20Views&color=00C2CB&style=for-the-badge" alt="profile views"/>
-</p>
-
 ---
 
 ### 🎨 About Me
@@ -35,7 +31,9 @@
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:obayehabb@gmail.com"><img src="https://img.shields.io/badge/Email-obayehabb@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:obayehabb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-obayehabb@gmail.com-blue?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
